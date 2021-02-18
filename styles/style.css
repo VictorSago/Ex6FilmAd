@@ -1,0 +1,129 @@
+body {
+  width: 100%;
+  margin: 0;
+  background-color: goldenrod;
+}
+
+header {
+  width: 50%;
+  text-align: center;
+  margin: auto;
+}
+
+footer {
+  width: 100%;
+  margin: auto;
+  /* text-align: center; */
+  min-height: 50px;
+  background-color: #636015;
+  font-size: 0.8em;
+  color: #c0c0c0;
+  line-height: 0;
+  padding: 1px 0;
+}
+
+footer a {
+  color: #608080;
+}
+
+footer a:hover {
+  color: #e9967a;
+}
+
+dl {
+  width: 60%;
+  overflow: hidden;
+  padding: 0;
+  margin: 0 20px;
+  line-height: 1.6em;
+}
+
+dt {
+  float: left;
+  width: 20%;
+  padding: 0;
+  margin: 0;
+}
+
+dd {
+  float: left;
+  width: 80%;
+  padding: 0;
+  margin: 0;
+}
+
+iframe {
+  border: 0;
+}
+
+a {
+  color: darkgreen;
+}
+
+a:visited {
+  color: olive;
+}
+
+a:hover {
+  color: darkslateblue;
+}
+
+.footertext {
+  width: 50%;
+  max-width: 800px;
+  margin: 0 auto;
+  padding-left: 20px;
+  padding-right: 20px;
+  text-align: right;
+  vertical-align: middle;
+  line-height: 0.5em;
+}
+
+.trailer {
+  text-align: center;
+  margin: auto;
+  width: 800px;
+  min-width: 768px;
+}
+
+.endlinkstable {
+  display: table;
+  margin: 0 auto;
+}
+
+#topruler {
+  width: 80%;
+}
+
+#bottomruler {
+  width: 98%;
+}
+
+#description {
+  color: #0a4020;
+  width: 50%;
+  min-width: 768px;
+  margin: auto;
+  padding: 10px 40px 15px;
+  /* border: 1px solid green; */
+}
+
+#trailervideo {
+  color: #0a4020;
+  width: 50%;
+  margin: auto;
+}
+
+#links {
+  color: #0a4020;
+  width: 50%;
+  margin: auto;
+}
+
+#links ul {
+  text-align: center;
+}
+
+#links ul li {
+  display: inline;
+}
